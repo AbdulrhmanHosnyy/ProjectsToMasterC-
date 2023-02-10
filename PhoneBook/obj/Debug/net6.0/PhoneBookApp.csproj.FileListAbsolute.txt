@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\bin\Debug\net6.0\PhoneBookApp.exe
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\bin\Debug\net6.0\PhoneBookApp.deps.json
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\bin\Debug\net6.0\PhoneBookApp.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\bin\Debug\net6.0\PhoneBookApp.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\bin\Debug\net6.0\PhoneBookApp.pdb
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBookApp.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBookApp.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBookApp.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBookApp.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBookApp.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\refint\PhoneBookApp.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBookApp.pdb
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBookApp.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\ref\PhoneBookApp.dll

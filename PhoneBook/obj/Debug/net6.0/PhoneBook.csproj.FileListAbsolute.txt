@@ -1,0 +1,5 @@
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache

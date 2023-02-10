@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace EmployeesManager
+{
+    public class Employee
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; }
+
+        public Decimal TotalSales { get; set; }
+
+        public string Gender { get; set; }
+    }
+}
+
