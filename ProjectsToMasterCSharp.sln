@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookApp", "PhoneBook\P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeesManager", "EmployeesManager\EmployeesManager.csproj", "{C8928F38-EC25-442E-836D-87732751DF12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarket", "StockMarket\StockMarket.csproj", "{81616578-A512-4C18-9B5D-7F591D7773D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket", "StockMarket\StockMarket.csproj", "{81616578-A512-4C18-9B5D-7F591D7773D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryManagement", "SalaryManagement\SalaryManagement.csproj", "{BE0B6F9B-6AEF-4BA2-9000-76F84856C9B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{81616578-A512-4C18-9B5D-7F591D7773D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81616578-A512-4C18-9B5D-7F591D7773D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81616578-A512-4C18-9B5D-7F591D7773D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0B6F9B-6AEF-4BA2-9000-76F84856C9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0B6F9B-6AEF-4BA2-9000-76F84856C9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0B6F9B-6AEF-4BA2-9000-76F84856C9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0B6F9B-6AEF-4BA2-9000-76F84856C9B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
