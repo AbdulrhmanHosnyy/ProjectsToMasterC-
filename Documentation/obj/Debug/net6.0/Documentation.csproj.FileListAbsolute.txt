@@ -1,0 +1,16 @@
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\Documentation.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\Documentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\Documentation.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\Documentation.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\Documentation.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\bin\Debug\net6.0\Documentation.exe
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\bin\Debug\net6.0\Documentation.deps.json
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\bin\Debug\net6.0\Documentation.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\bin\Debug\net6.0\Documentation.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\bin\Debug\net6.0\Documentation.pdb
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\Documentation.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\refint\Documentation.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\Documentation.pdb
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\Documentation.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\obj\Debug\net6.0\ref\Documentation.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\Documentation\bin\Debug\net6.0\Program.cs
