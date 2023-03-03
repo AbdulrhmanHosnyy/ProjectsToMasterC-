@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\bin\Release\net6.0\NumberTheory.exe
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\bin\Release\net6.0\NumberTheory.deps.json
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\bin\Release\net6.0\NumberTheory.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\bin\Release\net6.0\NumberTheory.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\bin\Release\net6.0\NumberTheory.pdb
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\NumberTheory.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\NumberTheory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\NumberTheory.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\NumberTheory.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\NumberTheory.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\NumberTheory.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\refint\NumberTheory.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\NumberTheory.pdb
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\NumberTheory.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\obj\Release\net6.0\ref\NumberTheory.dll

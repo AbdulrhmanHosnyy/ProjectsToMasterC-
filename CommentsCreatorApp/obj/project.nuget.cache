@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dorLaqJbeX2CQ9tbvjJwBJrRnlWIQIQMWBwhDQCG/GlqIzmJY+ZKGOtmiZ0JgxyNE/katCh6AKZh5u2YilDfBQ==",
+  "success": true,
+  "projectFilePath": "E:\\Studies\\Projects\\CSharpProjects\\ProjectsToMasterCSharp\\CommentsCreatorApp\\CommentsCreatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zain\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}

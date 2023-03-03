@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hosny.NumberSystemEnhancedVersion</id>
+    <version>1.0.0</version>
+    <authors>Abdulrhman Hosny Muhammed</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Convert between numbers from different bases</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\bin\Debug\net6.0\NumberTheory.runtimeconfig.json" target="lib\net6.0\NumberTheory.runtimeconfig.json" />
+    <file src="E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\NumberTheory\bin\Debug\net6.0\NumberTheory.dll" target="lib\net6.0\NumberTheory.dll" />
+  </files>
+</package>

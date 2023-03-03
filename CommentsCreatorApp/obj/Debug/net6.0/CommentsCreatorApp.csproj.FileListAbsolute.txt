@@ -1,0 +1,17 @@
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\bin\Debug\net6.0\CommentsCreatorApp.exe
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\bin\Debug\net6.0\CommentsCreatorApp.deps.json
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\bin\Debug\net6.0\CommentsCreatorApp.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\bin\Debug\net6.0\CommentsCreatorApp.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\bin\Debug\net6.0\CommentsCreatorApp.pdb
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\refint\CommentsCreatorApp.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.pdb
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\ref\CommentsCreatorApp.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\bin\Debug\net6.0\Humanizer.dll
+E:\Studies\Projects\CSharpProjects\ProjectsToMasterCSharp\CommentsCreatorApp\obj\Debug\net6.0\CommentsCreatorApp.csproj.CopyComplete
